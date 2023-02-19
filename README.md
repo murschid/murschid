@@ -17,7 +17,7 @@
 - :school: I am a `Software Engineer`, also pursuing a master degree at Schmalkalden University of Applied Science, Germany
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I’m currently learning: `Programming` and `Web Development`.
-- :nerd_face: Always `learning new things`
+- :nerd_face: Always try to `learn new things`
 
 <br>
 
