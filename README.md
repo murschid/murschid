@@ -16,7 +16,7 @@
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I am currently learning: `Advance Programming` and `Web Development`
 - :nerd_face: Always try to `learn new things`
-<br>
+  <br>
 
 ## 🔥 Streak Stats
 
@@ -96,6 +96,30 @@
     <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
 </p>
 <br/>
+
+## 📊 Github Stats
+
+<b>💻 GitHub Profile Stats</b>
+<br/>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murshid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajbdde&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+&nbsp;
+</p>
+
+---
+
+<!-- <b>⚡ Recent GitHub Activity</b>
+<a href="https://github.com/rajbdde"><img alt="Murshid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajbdde&custom_title=Murshid's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/> -->
+
+## :trophy: Git Profile Trophies
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajbdde&layout=compact&theme=algolia" alt="rajbdde" /></a></p>
+<br/>
+
+
+
+
 
 <!--
 **rajbdde/rajbdde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
