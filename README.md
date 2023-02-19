@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=rajbdde&label=Profile%20views&color=0e75b6&style=plastic" alt="rajbdde" /> 
+    <img src="https://komarev.com/ghpvc/?username=rajbdde&label=Profile%20Views&color=0e75b6&style=plastic" alt="rajbdde" /> 
 	<!-- <a href = "https://commits.top/bangladesh.html" target="_blank"><img src="https://enx6k5e0wh6seuv.m.pipedream.net/&style=plastic" alt="rajbdde" target="_blank"/></a> -->
 </p>
 
