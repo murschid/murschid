@@ -81,7 +81,7 @@
 </p>
 <br/>
 
-## 📊 Github Status
+## 📊 GitHub Stats
 
 <p align="center">
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murshid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murschid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
@@ -91,7 +91,7 @@
 <a href="https://github.com/murschid"><img alt="Murshid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=murschid&custom_title=Murshid's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/> -->
 
-<!-- ## :trophy: Github Trophies
+<!-- ## :trophy: GitHub Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murschid&layout=compact&theme=algolia" alt="murschid" /></a></p>
 <br/> -->
 
