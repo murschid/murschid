@@ -81,9 +81,10 @@
 </p>
 <br/>
 
-## 📊 Github Stats
+## 📊 Github Status
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murshid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murschid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murshid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=murschid&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 </p>
 
 <!-- <b>⚡ Recent GitHub Activity</b>
