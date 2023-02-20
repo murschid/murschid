@@ -6,7 +6,7 @@
 <br>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=rajbdde&label=Profile%20Views&color=0e75b6&style=plastic" alt="rajbdde" /> 
+    <img src="https://komarev.com/ghpvc/?username=rajbdde&label=Profile%20Views&color=0e75b6&style=for-the-badge&" alt="rajbdde" /> 
 	<!-- <a href = "https://commits.top/bangladesh.html" target="_blank"><img src="https://enx6k5e0wh6seuv.m.pipedream.net/&style=plastic" alt="rajbdde" target="_blank"/></a> -->
 </p>
 
@@ -27,13 +27,13 @@
 
 <p align="center">
   &emsp;
-	<a href="mailto:rajbdde@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:rajbdde@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&&logo=gmail&logoColor=white" alt="Gmail"/></a>
   &emsp;
-	<a href="https://github.com/rajbdde"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/rajbdde"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&&logo=github&logoColor=white" alt="GitHub"/></a>
   &emsp;
-	<a href="https://www.linkedin.com/in/rajsuas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/rajsuas/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &emsp;
-	<a href="https://www.instagram.com/murschid_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/murschid_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 <br>
 
@@ -43,77 +43,79 @@
 
 <p align="center"> 
   &emsp;
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"></a>
+    <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
   &emsp;
-    <a href="https://www.php.net" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white"></a>
+    <a href="https://www.php.net" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white"></a>
   &emsp;
-    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white"></a>
+    <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&&logo=typescript&logoColor=white"></a>
   &emsp;
-    <a href="https://www.java.com/en" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"></a>
+    <a href="https://www.java.com/en" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&&logo=openjdk&logoColor=white"></a>
 </p>
 
 ### 👉 Databases
 
 <p align="center"> 
   &emsp;
-  	<a href="https://www.mysql.com" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"></a>
+  	<a href="https://www.mysql.com" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&&logo=mysql&logoColor=white"></a>
   &emsp;
-  	<a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white"></a>
+  	<a href="https://www.postgresql.org" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&&logo=postgresql&logoColor=white"></a>
   &emsp;
-  	<a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white"></a>
+  	<a href="https://www.mongodb.com" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&&logo=mongodb&logoColor=white"></a>
+  &emsp;
+  	<a href="https://redis.io" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
 </p>
 
 ### 👉 Frontend Development
 
 <p align="center"> 
   &emsp; 
-  	<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"></a>   
+  	<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&&logo=html5&logoColor=white"></a>   
   &emsp;
-  	<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white"></a>
+  	<a href="https://www.w3schools.com/css/" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&&logo=css3&logoColor=white"></a>
+	&emsp;
+  	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+	&emsp;
+  	<a href="https://vuejs.org" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&&logo=vue.js&logoColor=4FC08D"></a>
   &emsp;
-  	<a href="https://vuejs.org" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D"></a>
-  &emsp;
-  	<a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB"></a>
+  	<a href="https://reactjs.org" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&&logo=react&logoColor=61DAFB"></a>
 </p>
 
 ### 👉 Software & Tools
 
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&&logo=git&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+    <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&&logo=json&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
 ### 👉 Operating Systems
 
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=plastic&logo=apple&logoColor=whit"></a>
+    <a href="#"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&&logo=apple&logoColor=whit"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&&logo=linux&logoColor=black"></a>
 </p>
 <br/>
 
 ## 📊 Github Stats
-
-<b>💻 GitHub Profile Stats</b>
-<br/>
-
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Murshid's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajbdde&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
 &nbsp;
 </p>
 
----
-
 <!-- <b>⚡ Recent GitHub Activity</b>
 <a href="https://github.com/rajbdde"><img alt="Murshid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajbdde&custom_title=Murshid's%20Contribution%20Graph&theme=react-dark" /></a>
 <br/> -->
 
-## :trophy: Git Profile Trophies
+## :trophy: Github Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajbdde&layout=compact&theme=algolia" alt="rajbdde" /></a></p>
 <br/>
 
