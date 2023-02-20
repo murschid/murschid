@@ -12,7 +12,7 @@
 
 ## :sassy_man: About Me
 
-- :school: I am a `Software Engineer`, now pursuing a master degree at Schmalkalden University of Applied Science in Germany
+- :school: I am a `Software Engineer`, as well as pursuing a master degree at Schmalkalden University of Applied Science in Germany
 - :technologist: I love using Software as a solution for every `Problem`
 - :student: I am currently learning: `Advanced Web Programming` and `Web Development`
 - :nerd_face: Always try to `learn new things`
