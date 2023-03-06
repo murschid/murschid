@@ -69,6 +69,10 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&&logo=git&logoColor=white"></a>&emsp;
     <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>&emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&&logo=json&logoColor=white"></a>&emsp;
+    <a href="#"><img alt="jQuery" img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>&emsp;
+    <a href="#"><img alt="Laravel" img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>&emsp;
+    <a href="#"><img alt="Spring Boot" img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&emsp;
+    <a href="#"><img alt="AWS" img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>&emsp;
     <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
