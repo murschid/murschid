@@ -26,10 +26,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-	<a href="mailto:rajbdde@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
-	<a href="https://github.com/murschid"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
-	<a href="https://www.linkedin.com/in/murschid"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
-	<a href="https://www.instagram.com/murschid_"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="mailto:rajbdde@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&&logo=gmail&logoColor=white" alt="Gmail"/></a>&emsp;
+	<a href="https://github.com/murschid" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&&logo=github&logoColor=white" alt="GitHub"/></a>&emsp;
+	<a href="https://www.linkedin.com/in/murschid" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&emsp;
+	<a href="https://www.instagram.com/murschid_" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 <br>
 
