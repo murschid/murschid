@@ -35,7 +35,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming Languages
+### 👉 Backend
 
 <p align="center">
     <a href="https://nodejs.org/en" target="_blank"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>&emsp;
@@ -53,7 +53,7 @@
   	<a href="https://redis.io" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
 </p>
 
-### 👉 Frontend Development
+### 👉 Frontend
 
 <p align="center">
   	<a href="https://www.w3.org/html/" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&&logo=html5&logoColor=white"></a>&emsp;
