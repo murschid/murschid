@@ -72,8 +72,7 @@
     <a href="#"><img alt="jQuery" img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>&emsp;
     <a href="#"><img alt="Laravel" img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>&emsp;
     <a href="#"><img alt="Spring Boot" img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&emsp;
-    <a href="#"><img alt="AWS" img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>&emsp;
-    <a href="#"><img alt="Figma" img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="AWS" img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 </p>
 
 <br/>
