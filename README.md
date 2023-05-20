@@ -42,6 +42,8 @@
     <a href="https://www.php.net" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&&logo=php&logoColor=white"></a>&emsp;
     <a href="https://www.typescriptlang.org" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&&logo=typescript&logoColor=white"></a>&emsp;
     <a href="https://www.java.com/en" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&&logo=openjdk&logoColor=white"></a>
+    <a href="https://laravel.com" target="_blank"><img alt="Laravel" img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>&emsp;
+    <a href="https://spring.io/" target="_blank"><img alt="Spring Boot" img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&emsp;
 </p>
 
 ### 👉 Databases
@@ -70,8 +72,6 @@
     <a href="#"><img alt="JIRA" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>&emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=for-the-badge&&logo=json&logoColor=white"></a>&emsp;
     <a href="#"><img alt="jQuery" img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>&emsp;
-    <a href="#"><img alt="Laravel" img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>&emsp;
-    <a href="#"><img alt="Spring Boot" img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>&emsp;
     <a href="#"><img alt="AWS" img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
 </p>
 
