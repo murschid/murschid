@@ -18,10 +18,10 @@
 - :nerd_face: Always try to `learn new things`
 <br>
 
-## 🔥 Streak Stats
+<!-- ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=murschid&theme=algolia" alt="murschid"/></p>
-<br>
+<br> -->
 
 ## 🤝 Connect With Me
 
